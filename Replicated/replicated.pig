@@ -1,5 +1,5 @@
 /**
- * @package Hello_Dolly
+ * @package Pig
  * @version 1.6
  * 
 Name: This Pig Script shows the usage of:-Replicated Join
